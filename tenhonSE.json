@@ -1,0 +1,17 @@
+{
+  "ver":1.0,
+  "se":{
+    "25":{"url":"https://raw.githubusercontent.com/930isnotavailable/majong/main/chimu/act_pon_56.mp3"},
+    "26":{"url":"https://raw.githubusercontent.com/930isnotavailable/majong/main/baizi/act_pon_85.mp3"},
+    "27":{"url":"https://raw.githubusercontent.com/930isnotavailable/majong/main/chimu/act_kan.mp3"},
+    "28":{"url":"https://raw.githubusercontent.com/930isnotavailable/majong/main/baizi/act_kan_86.mp3"},
+    "29":{"url":"https://raw.githubusercontent.com/930isnotavailable/majong/main/chimu/act_chi_56.mp3"},
+    "30":{"url":"https://raw.githubusercontent.com/930isnotavailable/majong/main/baizi/act_chi_85.mp3"},
+    "31":{"url":"https://raw.githubusercontent.com/930isnotavailable/majong/main/chimu/act_rich.mp3"},
+    "32":{"url":"https://raw.githubusercontent.com/930isnotavailable/majong/main/baizi/act_rich_85.mp3"},
+    "33":{"url":"https://raw.githubusercontent.com/930isnotavailable/majong/main/chimu/act_ron_46.mp3"},
+    "34":{"url":"https://raw.githubusercontent.com/930isnotavailable/majong/main/baizi/act_ron_85.mp3"},
+    "35":{"url":"https://raw.githubusercontent.com/930isnotavailable/majong/main/chimu/act_tumo_46.mp3"},
+    "36":{"url":"https://raw.githubusercontent.com/930isnotavailable/majong/main/baizi/act_tumo_85.mp3"},
+  }
+}
